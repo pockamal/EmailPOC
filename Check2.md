@@ -1,1 +1,1 @@
-This is a sample readme for the ACE Desktop project. It should contain X and Y.
+This is a sample readme for the  It should contain X and Y.
